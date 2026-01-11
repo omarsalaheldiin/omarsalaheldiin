@@ -5,18 +5,6 @@ I am an AI Engineer with over 2 years of hands-on experience building and deploy
 
 ---
 
-
-## 🛠️ My Technical Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL |
-| **AI / ML** | PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers |
-| **LLM Tools** | LangChain, Hugging Face, Vector Databases (ChromaDB) |
-| **Deployment** | AWS (EC2, S3), Docker, FastAPI, Streamlit, Gradio |
-
----
-
 ## 📫 Connect With Me
 - 📍 **Location**: Cairo, Egypt 
 - 💼 **LinkedIn**: [omar-salaheldiin](https://www.linkedin.com/in/omar-salaheldiin) 
