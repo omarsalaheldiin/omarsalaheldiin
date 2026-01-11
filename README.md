@@ -1,60 +1,53 @@
 # Hi there, I'm Omar Tamer Salah-Eldin 👋 
 
-### 🤖 AI Engineer | LLM & RAG Specialist | Machine Learning Optimizer
-[cite_start]I am an AI Engineer with 2+ years of experience building, deploying, and optimizing production-grade systems[cite: 2, 6]. [cite_start]My passion lies in translating complex research into scalable, real-world solutions that reduce latency and drive performance[cite: 8].
+### 🤖 AI Engineer | LLM & RAG Specialist | Optimization Expert
+I am an AI Engineer with over 2 years of hands-on experience building and deploying production-grade AI systems. I specialize in **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**, focusing on reducing latency and translating research into scalable real-world solutions.
 
 ---
 
-## 🚀 Professional Highlights
+## 🚀 Key Achievements
 
-* [cite_start]**AI Engineer at Corporatica**: Scaling financial trading workflows and improving end-to-end pipeline speeds by 70%[cite: 13, 15].
-* [cite_start]**LLM Trainer at Outlier**: Enhancing model reasoning quality through structured feedback, mathematical validation in LaTeX, and rubric-based benchmarking[cite: 19, 20, 22].
-* [cite_start]**Specialized Training**: Microsoft Machine Learning Engineer Specialization via the Digital Egypt Pioneers Initiative[cite: 23, 24].
+* [cite_start]**Pipeline Optimization**: Achieved a **70% improvement** in end-to-end pipeline speed by optimizing workflows[cite: 15].
+* [cite_start]**Financial AI**: Designed and maintained ML models supporting live financial trading workflows at Corporatica[cite: 14].
+* [cite_start]**LLM Benchmarking**: Evaluated and improved reasoning quality for mathematics and coding tasks on the Outlier platform[cite: 20].
+* [cite_start]**Automated Execution**: Built an XGBoost-based Forex trading model enabling real-time trade execution[cite: 16].
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ My Technical Stack
 
-| Category | technologies |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **AI/ML** | [cite_start]LLMs, RAG, PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers [cite: 10] |
-| **Frameworks** | [cite_start]LangChain, Hugging Face, FastAPI, Streamlit, Gradio [cite: 10, 11, 33] |
-| **Data & Vector** | [cite_start]SQL, Pandas, NumPy, ChromaDB, Vector Databases [cite: 10, 11, 31] |
-| **Cloud & DevOps** | [cite_start]AWS (EC2, S3), Docker, Git, Linux [cite: 11, 17] |
+| **Languages** | [cite_start]Python, SQL [cite: 10] |
+| **AI / ML** | [cite_start]PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers [cite: 10] |
+| **LLM Tools** | [cite_start]LangChain, Hugging Face, Vector Databases (ChromaDB) [cite: 10, 31] |
+| **Deployment** | [cite_start]AWS (EC2, S3), Docker, FastAPI, Streamlit, Gradio [cite: 11, 33] |
 
 ---
 
 ## 🔬 Featured Projects
 
 ### 📄 [Private AI Document Assistant (RAG)](https://github.com/omarsalaheldiin)
-* [cite_start]Developed a local-first RAG system using **Python**, **LangChain**, and **Llama 3** to ensure data privacy[cite: 28, 29, 32].
+* [cite_start]Developed a local-first RAG system using **Python** and **LangChain** for private PDF interaction[cite: 29].
 * [cite_start]Engineered high-performance ingestion pipelines using **Recursive Character Text Splitting** and **ChromaDB**[cite: 30, 31].
+* [cite_start]Leveraged **Llama 3** to deliver contextually grounded responses[cite: 32].
 
-### 🦴 [Bone Fracture Detection](https://github.com/omarsalaheldiin)
-* [cite_start]Fine-tuned **YOLOv11** on medical imagery to automate fracture detection[cite: 34, 35].
-
-### 📊 [Sentiment Analysis with DistilBERT](https://github.com/omarsalaheldiin)
-* [cite_start]Built a robust classification app deployed with **Streamlit** for real-time review analysis[cite: 37, 38, 39].
+### 🦴 [Bone Fracture Detection with YOLOv11](https://github.com/omarsalaheldiin)
+* [cite_start]Fine-tuned **YOLOv11** on medical image datasets using GPU environments for high precision[cite: 35, 36].
 
 ---
 
-## 📈 My High-Quality Standards
-In alignment with my specialized workflow, I ensure every project meets rigorous criteria:
-* [cite_start]**Data Integrity**: Handling multi-GB datasets with high availability using AWS S3 and Storj[cite: 17].
-* [cite_start]**Analytical Depth**: Utilizing complex datasets (CSV, JSON, XML) to identify and correct non-trivial model failures[cite: 20].
-* [cite_start]**Precision**: Providing detailed qualitative reviews and rubric-based scoring to ensure output excellence[cite: 21].
+## 📊 GitHub Stats
+![Omar's Stats](https://github-readme-stats.vercel.app/api?username=omarsalaheldiin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarsalaheldiin&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
-- [cite_start]🌍 Based in: **Cairo, Egypt** [cite: 3]
-- [cite_start]📧 Email: [omar.salaheldiin@gmail.com](mailto:omar.salaheldiin@gmail.com) [cite: 3]
-- [cite_start]💼 LinkedIn: [omar-salaheldiin](https://www.linkedin.com/in/omar-salaheldiin) [cite: 4]
-- [cite_start]🛠️ GitHub: [omarsalaheldiin](https://github.com/omarsalaheldiin) [cite: 4]
+## 📫 Connect With Me
+- [cite_start]📍 **Location**: Cairo, Egypt 
+- [cite_start]💼 **LinkedIn**: [omar-salaheldiin](https://www.linkedin.com/in/omar-salaheldiin) 
+- [cite_start]📧 **Email**: [omar.salaheldiin@gmail.com](mailto:omar.salaheldiin@gmail.com) 
+- [cite_start]🛠️ **GitHub**: [omarsalaheldiin](https://github.com/omarsalaheldiin) 
 
 ---
-
-## 🎓 Certifications
-* [cite_start]**IBM AI Engineering** Professional Certificate [cite: 44]
-* [cite_start]**Microsoft Certified**: Azure AI Fundamentals (AI-900) [cite: 45]
-* [cite_start]**Associate AI Engineer** - DataCamp [cite: 46]
+*"Data is only as good as the analysis applied to it."*
